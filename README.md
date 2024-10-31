@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrachiVpatil96
-- 👀 I’m interested pen-source projects, Devops, Multi-cloud , Kubernetes Projects and Terraform.
+- 👀 I’m interested Open-source projects, Devops, Multi-cloud , Kubernetes Projects and Terraform.
 - 🌱 I’m currently learning Docker , Kubernetes, Git, Terraform ,CI/CD Pipelines.
 - 💞️ I’m looking to collaborate on projects related to DevOps and cloud infrastructure.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/) or via email at prachivpatil96@example.com
